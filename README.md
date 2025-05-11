@@ -1,2 +1,6 @@
 # Basic_Python
-This is a python project based on vgsales.
+basic python operations:
+#Numpy
+#Pandas
+#PCOD analysis
+
